@@ -1,0 +1,6 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.noselect": false,
+  "python.analysis.diagnosticMode": "workspace",
+  "python.pythonPath": "~/mammoth/vagrant/v/bin/python3",
+}
