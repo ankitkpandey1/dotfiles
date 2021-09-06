@@ -29,7 +29,7 @@ set number
 let g:airline_theme='simple'
 set autoindent
 set tags="~/temp/mvctag"
-set pythonhome="~/mammoth/vagrant/v/bin/python"
+" set pythonhome="~/mammoth/vagrant/v/bin/python"
 " for gutentags, exlcude these file types
 let g:gutentags_ctags_exclude = ['*.css', '*.html', '*.js', '*.yml', '*.json', '*.scss', '*.less', 'node_modules']
 " cache dir for gutentags
